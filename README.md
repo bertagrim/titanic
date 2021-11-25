@@ -1,3 +1,3 @@
 # titanic
 
-I try a few things with Kaggle's titanic task.
+I just tried a few things with Kaggle's titanic task...
